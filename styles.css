@@ -3,6 +3,39 @@
     text-align: center;
   }
 
-  h1 {
-    background-color: pink;
+  .funParagraph {
+    color: green;
+  }
+
+  body {
+    background-color: rgb(148, 226, 226);
+    margin: 8px;
+    padding: 8px;
+    display: block;
+    /*margin value of 8px and a display type of block.*/
   } 
+
+  img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+
+  h2 {
+    color: white;
+  
+  }
+
+  p {
+    font-size: 15pt;
+    text-align: center;
+  }
+
+  
+  #mainHeading {
+    color : red;
+  }
+
